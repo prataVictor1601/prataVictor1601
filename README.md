@@ -1,16 +1,38 @@
-## Hi there 👋
+## Bem vindo(a) ao meu prefil👋
 
-<!--
-**prataVictor1601/prataVictor1601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📁 Portfolio Acadêmico e Pessoal
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu repositório de projetos! Este espaço foi criado para organizar, versionar e apresentar projetos acadêmicos e pessoais desenvolvidos ao longo da minha trajetória de estudos e aprendizado em tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objetivo
+
+Reunir projetos relevantes em um único local com organização, documentação e versionamento adequado, visando apresentar minhas habilidades e evolução técnica.
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto                 | Tipo           | Linguagens/Tecnologias  |
+|-------------------------|----------------|-------------------------|
+| atividades da faculdade | Acadêmico      | C#                      | 
+
+
+## 📚 Tecnologias Utilizadas
+
+- Git e GitHub
+- HTML / CSS / JavaScript
+- Python
+- VS Code
+- GitHub Pages
+
+---
+
+## 🔗 Conecte-se Comigo
+
+- [GitHub]([https://github.com/seu-usuario](https://github.com/prataVictor1601/prataVictor1601/edit/main/README.md))
+- [Instagram](https://www.instagram.com/vprata16?igsh=MTI2aXY5MWl6czduOA%3D%3D&utm_source=qr)
+
+  
+---

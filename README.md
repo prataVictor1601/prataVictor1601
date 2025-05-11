@@ -33,6 +33,6 @@ Reunir projetos relevantes em um único local com organização, documentação 
 
 - [GitHub](https://github.com/prataVictor1601)
 - [Instagram](https://www.instagram.com/vprata16?igsh=MTI2aXY5MWl6czduOA%3D%3D&utm_source=qr)
-
+- [Linkedin](https://www.linkedin.com/in/victor-prata-298505365/)
   
 ---

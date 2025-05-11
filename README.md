@@ -31,7 +31,7 @@ Reunir projetos relevantes em um único local com organização, documentação 
 
 ## 🔗 Conecte-se Comigo
 
-- [GitHub]([https://github.com/seu-usuario](https://github.com/prataVictor1601/prataVictor1601/edit/main/README.md))
+- [GitHub](https://github.com/prataVictor1601)
 - [Instagram](https://www.instagram.com/vprata16?igsh=MTI2aXY5MWl6czduOA%3D%3D&utm_source=qr)
 
   

@@ -17,15 +17,14 @@ Reunir projetos relevantes em um único local com organização, documentação 
 | Projeto                 | Tipo           | Linguagens/Tecnologias  |
 |-------------------------|----------------|-------------------------|
 | atividades da faculdade | Acadêmico      | C#                      | 
+| Meus projetos           | Pessoal        | C#                      |
 
 
 ## 📚 Tecnologias Utilizadas
 
 - Git e GitHub
-- HTML / CSS / JavaScript
-- Python
+- C# e MySQL
 - VS Code
-- GitHub Pages
 
 ---
 
